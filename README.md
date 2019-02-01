@@ -1,3 +1,36 @@
+funnelcloud specific
+====================
+
+## Why is this fork here?
+This is forked for the sake of safety - the original library was not published to hex so to ensure it doesn't change underneath you, this fork was placed here.
+
+## A Declaration of My Love for Mat's Mom
+
+```
+Viv, oh my dear Viv,
+Drink to me only with thine eyes, 
+         And I will pledge with mine; 
+Or leave a kiss but in the cup, 
+         And I’ll not look for wine. 
+The thirst that from the soul doth rise 
+         Doth ask a drink divine; 
+But might I of Jove’s nectar sup, 
+         I would not change for thine. 
+
+Viv, oh my dear Viv,
+I sent thee late a rosy wreath, 
+         Not so much honouring thee 
+As giving it a hope, that there 
+         It could not withered be. 
+But thou thereon didst only breathe, 
+         And sent’st it back to me; 
+Since when it grows, and smells, I swear, 
+         Not of itself, but thee.
+         
+Viv, forever will my love for you shine,
+         and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine and shine.
+```
+
 zookeeper-elixir
 ============
 
