@@ -4,7 +4,7 @@ funnelcloud specific
 ## Why is this fork here?
 This is forked for the sake of safety - the original library was not published to hex so to ensure it doesn't change underneath you, this fork was placed here.
 
-## A Declaration of My Love for Mat's Mom
+## A Declaration of My Love for Viv
 
 ```
 Viv, oh my dear Viv,
